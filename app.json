@@ -1,0 +1,72 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/admin/admin",
+    "pages/admin/guanli/guanli",
+    "pages/admin/guanli/slide/slide",
+    "pages/admin/guanli/article/article",
+    "pages/admin/guanli/article/newArticle/newArticle",
+    "pages/admin/guanli/article/writeArticle/writeArticle",
+    "pages/admin/guanli/apply/apply",
+    "pages/admin/guanli/ly/ly",
+    "pages/admin/guanli/apply/applyXiang/applyXiang",
+    "pages/admin/guanli/setAdmin/setAdmin",
+    "pages/admin/guanli/setAdmin/newAdmin/newAdmin",
+    "pages/admin/guanli/setAdmin/writeAdmin/writeAdmin",
+    "pages/admin/guanli/job/job",
+    "pages/admin/guanli/job/newJob/newJob",
+    "pages/admin/guanli/job/writeJob/writeJob",
+    "pages/index/sqrz/sqrz",
+    "pages/index/dhys/dhys",
+    "pages/index/dlyt/dlyt",
+    "pages/index/cylm/cylm",
+    "pages/index/mtbd/mtbd",
+    "pages/index/bptd/bptd",
+    "pages/index/hz/hz",
+    "pages/index/zp/zp",
+    "pages/index/xiangmu/xiangmu",
+    "pages/index/xiangmu/detail/detail",
+    "pages/gonggao/gonggao",
+    "pages/liuyan/liuyan",
+    "pages/duli/duli"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f45656",
+    "navigationBarTitleText": "创业生态公园",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#eee"
+  },
+  "tabBar": {
+    "backgroundColor": "#FAFAFA",
+    "borderStyle": "white",
+    "color": "#1e1e1e",
+    "selectedColor": "#f45656",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "selectedIconPath": "images/home2.png",
+        "iconPath": "images/home.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/gonggao/gonggao",
+        "selectedIconPath": "images/gonggao2.png",
+        "iconPath": "images/gonggao.png",
+        "text": "公告"
+      },
+      {
+        "pagePath": "pages/duli/duli",
+        "selectedIconPath": "images/xiangmu2.png",
+        "iconPath": "images/xiangmu.png",
+        "text": "项目"
+      },
+      {
+        "pagePath": "pages/liuyan/liuyan",
+        "selectedIconPath": "images/liuyan2.png",
+        "iconPath": "images/liuyan.png",
+        "text": "留言"
+      }
+    ]
+  }
+}
